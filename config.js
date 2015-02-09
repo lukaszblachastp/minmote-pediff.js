@@ -6,9 +6,8 @@ module.exports = {
     ],
 
     environments: {
-        current: 'http://testprod.minmote.no/',
+        current: 'http://www.minmote.no/',
         candidate: 'http://testprod.minmote.no/'
-        // candidate: 'http://lblacha.vgnett.no/minmote/'
     },
 
     css: {
